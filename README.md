@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EEOn-geek
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: eghe609@gmail.com
 
